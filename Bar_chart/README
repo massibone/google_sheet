@@ -1,3 +1,6 @@
 SPARKLINE function
 A sparkline is a mini graph that represents the trend of the selected numerical data.
 Simple sparkline for table soccer
+
+Usually Google accept , but for my formula I use \
+=SPARKLINE(C2;{"charttype"\"bar";"color1"\"purple";"max"\$C$2})
